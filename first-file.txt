@@ -6,6 +6,12 @@ Add something else to this file or make a change.
 Think this as a piece of code you delivered for a requirement. 
 good work guys 
 
+Hello friends.
+how have you been
+my best firend is you.this is written by Dawood Saeedy.
+I love this program.
+My frind loves it too
+
 Let's add the missing line of code.
 
 HI i am here
@@ -14,6 +20,9 @@ we need to change somthing
 Let's add the missing line of code. 
 my best firend is you.this is written by Dawood Saeedy.
 good work ! 
+
+this line is added by Mahfoz
+this was just a practice change
 
 Hi this the third change by wael soliman
 this is the fourth change by wael soliman too  
