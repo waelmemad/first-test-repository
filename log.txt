@@ -1,1 +1,4 @@
- New File to Test 
+ New File to Test
+
+This log.txt made by wael 
+Happy to be one of this group (wael soliman)  
